@@ -259,7 +259,7 @@ const es = {
         sistemaEstructural: "Sistema estructural",
         tipoMamposteria: "Tipo de mampostería",
         espesorMuros: "Espesor de muros",
-        cubierta: "Cubierta"
+        cubierta: "Cubierta" 
       },
       acabados: {
         titulo: "Acabados",
