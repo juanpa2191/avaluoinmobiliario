@@ -461,9 +461,9 @@ const en = {
       autoSignIn: 'Error during automatic sign in',
       CredentialsSignin: 'Invalid credentials',
       unauthorized: 'Unauthorized'
-  }
-},
-language: 'Language'
+  },
+  language: 'Language'
+}
 };
 
 export default en;

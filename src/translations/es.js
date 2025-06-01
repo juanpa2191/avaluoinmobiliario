@@ -462,8 +462,8 @@ const es = {
       autoSignIn: 'Error durante el inicio de sesión automático',
       CredentialsSignin: 'Credenciales inválidas',
       unauthorized: 'No autorizado'
-  }
-},
-language: 'Language'
+  },
+  language: 'Idioma'
+}
 };
 export default es;
