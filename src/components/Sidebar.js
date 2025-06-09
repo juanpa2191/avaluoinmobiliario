@@ -23,7 +23,7 @@ export default function Sidebar() {
     },
     {
       name: t('app.sidebar.appraisals'),
-      href: '/avaluos',
+      href: '/avaluo',
       icon: HiClipboardList,
       show: true,
       description: t('app.sidebar.appraisalsDesc')
